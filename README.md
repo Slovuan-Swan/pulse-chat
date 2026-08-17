@@ -1,6 +1,9 @@
 # 🚀 Pulse Chat — Real-time Enterprise Messenger (Slack Clone)
 
-[![Actions Status](https://github.com/Slovuan-Swan/js-react-development-project-12/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Slovuan-Swan/js-react-development-project-12/actions)
+[![Actions Status](https://github.com/Slovuan-Swan/js-react-development-project-12/actions/workflows/ci.yml/badge.svg)](https://github.com/Slovuan-Swan/js-react-development-project-12/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![React](https://img.shields.io/badge/React-19-blue)
+
 🌐 **Live Demo:** [Открыть демо Pulse Chat](https://pulse-chat-7r73.onrender.com)
 
 **Pulse Chat** — это высоконагруженный SPA-мессенджер, разработанный на базе современных фронтенд-технологий. Основной фокус проекта — построение чистой архитектуры, управление сложным распределенным состоянием (Client/Server State) и обеспечение мгновенной синхронизации данных между пользователями в реальном времени.

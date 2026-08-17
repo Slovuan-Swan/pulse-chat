@@ -21,7 +21,7 @@ const MainLayout: FC<PropsWithChildren> = ({ children }) => {
       <nav className="shadow-sm navbar navbar-expand-lg navbar-light bg-white">
         <Container>
           <Link className="navbar-brand" to={Router.ROOT}>
-            Hexlet Chat
+            Pulse Chat
           </Link>
           {isAuthorized && (
             <Button onClick={handleClick}>
