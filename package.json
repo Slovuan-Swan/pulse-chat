@@ -1,7 +1,7 @@
 {
-  "name": "@hexlet/code",
+  "name": "pulse-chat",
   "version": "1.0.0",
-  "description": "[![Actions Status](https://github.com/Slovuan-Swan/js-react-development-project-12/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Slovuan-Swan/js-react-development-project-12/actions)",
+  "description": "Pulse Chat — real-time enterprise messenger built with React 19, Redux Toolkit, and Socket.io",
   "homepage": "https://github.com/Slovuan-Swan/pulse-chat#readme",
   "bugs": {
     "url": "https://github.com/Slovuan-Swan/pulse-chat/issues"
@@ -19,6 +19,7 @@
     "postinstall": "npm install --prefix frontend"
   },
   "dependencies": {
-    "@hexlet/chat-server": "^2.0.4"
+    "serve": "^1.1.6",
+    "@react-aria/ssr": "^3.10.1"
   }
 }
