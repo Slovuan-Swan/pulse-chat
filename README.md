@@ -1,6 +1,8 @@
 # 🚀 Pulse Chat — Real-time Enterprise Messenger (Slack Clone)
 
 [![Actions Status](https://github.com/Slovuan-Swan/js-react-development-project-12/actions/workflows/ci.yml/badge.svg)](https://github.com/Slovuan-Swan/js-react-development-project-12/actions)
+[![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=Slovuan-Swan_pulse-chat&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Slovuan-Swan_pulse-chat)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Slovuan-Swan_pulse-chat&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Slovuan-Swan_pulse-chat)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![React](https://img.shields.io/badge/React-19-blue)
 
